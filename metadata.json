@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup 2026 Hub",
+  "description": "Premium sports news website dedicated to the FIFA World Cup 2026 with live updates, schedules, standings, and predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
